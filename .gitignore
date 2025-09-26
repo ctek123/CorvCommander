@@ -1,0 +1,10 @@
+# venvs & local env
+.venv/
+.env
+# editor junk
+.vscode/
+.idea/
+# audio/cache
+samples/*.mp3
+samples/*.wav
+*.cache
