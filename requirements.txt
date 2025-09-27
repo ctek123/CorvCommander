@@ -1,0 +1,6 @@
+sounddevice
+numpy
+tomli
+pynput
+soundfile
+pyinstaller
